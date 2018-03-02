@@ -1,0 +1,9 @@
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\bin\Debug\begtodiffer.exe.config
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\bin\Debug\begtodiffer.exe
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\bin\Debug\begtodiffer.pdb
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\obj\Debug\begtodiffer.csprojResolveAssemblyReference.cache
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\obj\Debug\begtodiffer.Form1.resources
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\obj\Debug\begtodiffer.Properties.Resources.resources
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\obj\Debug\begtodiffer.csproj.GenerateResource.Cache
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\obj\Debug\begtodiffer.exe
+c:\users\davenportm\documents\visual studio 2015\Projects\begtodiffer\begtodiffer\obj\Debug\begtodiffer.pdb
